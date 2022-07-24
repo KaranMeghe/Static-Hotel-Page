@@ -14,4 +14,4 @@ Link to the Project [Netlify link](https://hotel-temp.netlify.app/)
  
  it was great experience  😃 
  
- 
+ **This project takes between 30-40 mins to get complete.**
